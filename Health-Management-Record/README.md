@@ -1,6 +1,6 @@
 # Health Management Record Web Application
 
-A modern, secure health management system built with React and Firebase, designed for patients and healthcare providers.
+A modern, secure health management system built with React (JavaScript) and Firebase, designed for patients and healthcare providers. 
 
 ## 🏥 Features
 
@@ -21,7 +21,7 @@ A modern, secure health management system built with React and Firebase, designe
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React 18, Vite, Tailwind CSS
+- **Frontend**: React 18 (JavaScript), Vite, Tailwind CSS 
 - **Backend**: Firebase
   - Firebase Authentication (role-based access)
   - Firestore Database
@@ -181,3 +181,6 @@ src/
 ## 📝 License
 
 MIT
+
+
+Edith, this to show that React and JavaScript in my github and not typscript and JavaScript
