@@ -181,6 +181,3 @@ src/
 ## 📝 License
 
 MIT
-
-
-Edith, this to show that React and JavaScript in my github and not typscript and JavaScript
